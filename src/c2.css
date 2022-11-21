@@ -1,0 +1,82 @@
+a
+{
+    color: yellow;
+    text-decoration: none;
+}
+body
+{
+    background-image: url('http://teamue.com/wp-content/uploads/2015/07/City-Street-30-opacity-copy.jpg');
+    background-repeat: no-repeat;
+    background-size: 1300px 800px;
+}
+.head
+{
+    margin-top: 180px;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-right: 980px;
+    border-width: 250px;
+    text-align: center;
+    background-color: palevioletred;
+}
+.head1
+{
+  font-weight: bolder;
+    padding-left: 20px;
+    font-size: 22px;
+}
+.road
+{
+    font-size: 20px;
+    margin-left: 23px;
+    border-radius: 30px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/The_A86_at_Loch_Laggan_-_geograph.org.uk_-_729536.jpg/200px-The_A86_at_Loch_Laggan_-_geograph.org.uk_-_729536.jpg');
+    width: 200px;
+    height: 150px;
+}
+.electricity
+{
+    font-size: 20px;
+    margin-left: 23px;
+    border-radius: 30px;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/008/837/540/small/small-electric-pole-with-the-telephone-cable-photo.jpg');
+    width: 200px;
+    height: 150px;
+}
+.desc
+{
+    font-weight: bold;
+    font-size: 22px;
+    padding-top: 10px;
+    /*padding-left: 80px; */
+    text-align: center;
+}
+.tot
+{
+    margin: 20px;
+    border: 1px solid black;
+    float: left;
+    padding-top: 20px;
+    background-color: palevioletred;
+    height: 200px;
+    width: 250px;
+    margin-left: 30px;
+}
+.drainage
+{
+    font-size: 20px;
+    margin-left: 23px;
+    border-radius: 30px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Iron_Cove_Ck_looking_downstream_from_John_St%2C_Croydon.jpg/200px-Iron_Cove_Ck_looking_downstream_from_John_St%2C_Croydon.jpg');
+    width: 200px;
+    height: 150px;
+}
+.water
+{
+    font-size: 20px;
+    margin-left: 23px;
+    border-radius: 30px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKE-OpjZ4hjvocbDSGsSgjHVkn9zyg0wCIQ&usqp=CAU');
+    width: 200px;
+    height: 150px;
+}

@@ -1,0 +1,18 @@
+body
+{
+    background-image: url('bg1.png');
+}
+img
+{
+    margin-top: 40px;
+    width: 500px;
+    height: 400px;
+}
+h1
+{
+    background-color: yellowgreen;
+    margin-left: 400px;
+    text-align: center;
+    width: 500px;
+    height: 50px;
+}
