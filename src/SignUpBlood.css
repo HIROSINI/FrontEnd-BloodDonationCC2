@@ -1,0 +1,74 @@
+/* body
+{
+    background-color: rgb(237, 48, 86);
+
+} */
+/* .body2
+{
+    background-image: url('https://i.pinimg.com/originals/b1/67/e2/b167e2bf540ad37e8b53e42b2c2e37a3.gif');
+    background-repeat: no-repeat;
+    background-size: 645px;
+    background-color: rgb(237, 48, 86);
+} */
+.login2
+{
+    border-radius: 15px;
+    border: 10px solid rgb(237, 48, 86);
+    border-style:dashed;
+    margin-top: 30px;
+    margin-left: 700px;
+    background-color: azure;
+    height: 400px;
+    width: 380px;
+    text-align: center;
+    background-color: lightpink;
+}
+.login3
+{
+    margin-top: 10px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#input1, #input2
+{
+    margin-left: 50px;
+    width: 150px;
+}
+#input3
+{
+    margin-left: 83px;
+    width: 150px;
+}
+#input4
+{
+    margin-left: 60px;
+    width: 150px;
+}
+#input5
+{
+    margin-left: 1px;
+    width: 150px;
+}
+input
+{
+    height: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    width: 100px;
+}
+form
+{
+    font-size: 15px;
+}
+#Submit
+{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: lemonchiffon;
+}
+#Submit:hover
+{
+    background-color: palevioletred;
+}

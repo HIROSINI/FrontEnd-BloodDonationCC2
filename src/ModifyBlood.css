@@ -1,0 +1,84 @@
+
+.do
+{
+    margin-top: -43.5px;
+    margin-left: 750px;
+}
+.mo
+{
+    margin-top: -43.5px;
+    margin-left: 900px;
+}
+
+.don
+{
+    text-decoration: underline;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: fantasy;
+    color: whitesmoke;
+}
+.nav
+{
+    height: 85px;
+    width: 1228px;
+    background-color: white;
+}
+.head
+{
+    font-size: 28px;
+    text-align: center;
+    margin-top: -68px;
+    margin-left: -600px;
+    color: rgb(28, 20, 77);
+}
+.img
+{
+    height: 85px;
+    width: 85px;
+}
+.why
+{
+    margin-top: -50px;
+    margin-left: 550px;
+    border-radius: 5px;
+}
+.get
+{
+    background-color: white;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 30px;
+    padding: 5px;
+
+}
+.up
+{
+    background-color: white;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 30px;
+    padding: 5px;
+
+}
+.del
+{
+    background-color: white;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 30px;
+    padding: 5px;
+
+}
+button:hover
+{
+    background-color: lightsalmon;
+}
+#bloin
+{
+    height: 400px;
+    width: 400px;
+    margin-left: 700px;
+    margin-top: -40px;
+}
